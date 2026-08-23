@@ -1,5 +1,8 @@
 <!--suppress ALL -->
 <p align="center">
+    <b>English</b> | <a href="README_zh-CN.md">简体中文</a>
+</p>
+<p align="center">
     <img src="images/banner.png" alt="HuskHomesMenu" />
     <a href="https://github.com/Obydux/HuskHomesMenu/actions/workflows/java_ci.yml">
         <img src="https://img.shields.io/github/actions/workflow/status/Obydux/HuskHomesMenu/java_ci.yml?branch=master&logo=github"/>
